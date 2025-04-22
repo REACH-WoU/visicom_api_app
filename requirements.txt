@@ -1,0 +1,4 @@
+pandas
+shiny==0.10.2
+requests
+openpyxl
